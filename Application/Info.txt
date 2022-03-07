@@ -1,0 +1,1 @@
+Takes Student Information and stores it in JSON file... Can even do the same with Allocating Courses to Students

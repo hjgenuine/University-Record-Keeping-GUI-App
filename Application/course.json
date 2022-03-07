@@ -1,0 +1,12 @@
+{
+    "Courses": [
+        {
+            "CourseID": "CS104",
+            "CourseName": "Programming in C"
+        },
+        {
+            "CourseID": "CS170",
+            "CourseName": "Python Problem Solving"
+        }
+    ]
+}

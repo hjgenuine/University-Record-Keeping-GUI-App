@@ -1,0 +1,22 @@
+{
+    "Students": [
+        {
+            "RollNo": "23",
+            "Name": "Jack",
+            "Gender": "Male",
+            "Address": "45A",
+            "PhoneNo": "123-456",
+            "Batch": "2020",
+            "Hostel": true
+        },
+        {
+            "RollNo": "40",
+            "Name": "Jason",
+            "Gender": "Male",
+            "Address": "Mohali",
+            "PhoneNo": "992-123",
+            "Batch": "2020",
+            "Hostel": false
+        }
+    ]
+}
