@@ -4,7 +4,7 @@ This a small repository of the students of any University and the courses they a
 The application was be made using tkinter GUI library for all frontend screen designs and JSON (Javascript Object Notation) files to store all the data at the backend.
 
 Page 1
-![1](https://user-images.githubusercontent.com/64316945/156988775-90fd21ad-b0d4-4cb9-89a7-ac8b0cacfa40.JPG)
+![1](https://user-images.githubusercontent.com/64316945/156989772-96bd4c24-fa03-4938-b919-212ab6ee2e1c.JPG)
 
 Page 2
 ![2](https://user-images.githubusercontent.com/64316945/156988778-287c32de-1eea-45b1-853b-41a594225537.JPG)
